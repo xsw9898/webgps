@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JDK">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/asm-3.3.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/asm-commons-3.3.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/asm-tree-3.3.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/aspectjrt-1.6.8.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/aspectjweaver-1.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/backport-util-concurrent.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/commons-configuration-1.8.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/commons-dbcp-1.2.2.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/commons-digester.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/commons-fileupload-1.3.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/commons-pool-1.3.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/commons-psc-1.0.6.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/edtftpj.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/ehcache-1.5.0.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/ehcache-core-2.5.2.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/freemarker-2.3.22.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/gif4j_pro_trial_2.3.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/hessian-3.0.1.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/hsqldb-1.8.0.10.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/iText-2.1.7.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/iTextAsian.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/iText-rtf-2.1.7.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/jackson-all-1.8.3.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/jasperreports-6.2.0.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/jasperreports-fonts-6.2.0.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/jasperreports-javaflow-6.2.0.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/jaxen-1.1.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/jcommon-1.0.16.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/jdom-b9.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/jfreechart-1.0.13.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/jsf-api.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/jsf-impl.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/jsr107cache-1.0.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/junit-4.6.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/msbase.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/mssqlserver.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/msutil.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/mysql-connector-java-5.1.26-bin.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/ognl-3.0.14.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/ojdbc14-10.2.0.1.0.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/org.springframework.aop-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/org.springframework.asm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/org.springframework.aspects-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/org.springframework.context.support-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/org.springframework.context-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/org.springframework.core-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/org.springframework.instrument.tomcat-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/org.springframework.instrument-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/org.springframework.jdbc-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/org.springframework.jms-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/org.springframework.orm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/org.springframework.oxm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/org.springframework.test-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/org.springframework.transaction-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/org.springframework.web.portlet-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/org.springframework.web.servlet-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/org.springframework.web.struts-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/org.springframework.web-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/pinyin4j-2.5.0.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/poi-3.14.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/poi-examples-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/poi-examples-3.14.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/poi-excelant-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/poi-excelant-3.14.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/poi-ooxml-3.14.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/poi-ooxml-schemas-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/poi-ooxml-schemas-3.14.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/poi-scratchpad-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/poi-scratchpad-3.14.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/quartz-all-1.6.2.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/RXTXcomm.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/spring-security-acl-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/spring-security-config-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/spring-security-core-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/spring-security-taglibs-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/spring-security-web-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/standard-1.1.2.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/struts2-core-2.3.28.1.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/struts2-json-plugin-2.3.28.1.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/struts2-junit-plugin-2.3.28.1.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/struts2-spring-plugin-2.3.28.1.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/GPSWEB - 复件(9)/GPSWEB/WebContent/WEB-INF/lib/xwork-core-2.3.28.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
